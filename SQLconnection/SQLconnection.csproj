@@ -50,9 +50,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Ado.cs" />
+    <Compile Include="angelnew.cs" />
     <Compile Include="ConnectionSQL.cs" />
     <Compile Include="Datareader.cs" />
     <Compile Include="ExceuteNonquery.cs" />
+    <Compile Include="new1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Scalar.cs" />
     <None Include="SPinputoutput User" />
