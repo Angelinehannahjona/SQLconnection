@@ -8,5 +8,6 @@ namespace SQLconnection
 {
     internal class new1
     {
+        console.write
     }
 }
